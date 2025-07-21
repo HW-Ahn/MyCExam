@@ -42,18 +42,19 @@ int main()
 		}
 	*/
 	
+	/*
 	int i = 100;
 	while (i >= 0) {
 		printf("%d ", i--);
 		// --i;, i--; i -= 1;, i = i - 1;
 	}
-	
+	*/
 
-	/*
+	
 	for (int i = 100; i >= 0; i--) {
 		printf("%d ", i);
 	}
-	*/
+	printf("\n");
 
 	return 0;
 	
